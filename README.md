@@ -6,9 +6,11 @@ These mini projects showcase Python's versatility in practical applications, cov
 
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
-| **No.** | **Name** | 
-| ------- | -------- | 
-|	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** | 
+| **No.** | **Name** | **Instructions**  |
+| ------- | -------- |  ------------------
+|	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** | 1. Create a menu with options for balance check, deposit, and withdrawal.
+2. Implement the functionalities for each option. 
+3. Maintain a balance and update it based on user actions.  |
 
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
