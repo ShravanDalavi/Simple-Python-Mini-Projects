@@ -8,7 +8,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[Alarm Clock]()** | 
+|	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** | 
 
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
