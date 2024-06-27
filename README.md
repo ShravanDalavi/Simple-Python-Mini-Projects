@@ -6,6 +6,10 @@ These mini projects showcase Python's versatility in practical applications, cov
 
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
+| **No.** | **Name** | 
+| ------- | -------- | 
+|	01	| **[Alarm Clock]()** | 
+
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
