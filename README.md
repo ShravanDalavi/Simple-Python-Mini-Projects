@@ -11,8 +11,8 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 1. Go [**`here`**](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
 
-    ![Download ZIP](![image](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/assets/172488772/061a0bd4-5344-415f-8527-67906ce58405)
-)
+  ![image](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/assets/172488772/fe6f519f-afbd-49d1-9efc-5f6b5f234340)
+
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
