@@ -34,3 +34,11 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
 
 ## Contributors ✨
+
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub:  [Email](https://github.com/SonawaneAshwini)
+  
