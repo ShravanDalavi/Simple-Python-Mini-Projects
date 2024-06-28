@@ -11,6 +11,31 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 
 
+## How to Use This Repository
+
+To run any of the projects, follow these steps:
+
+1. **Clone the Repository:**
+   - Open your terminal and run:
+     ```sh
+     git clone https://github.com/your-username/python-mini-projects.git
+     cd python-mini-projects
+     ```
+
+2. **Navigate to the Project Directory:**
+   - Each project is located in its own directory. Navigate to the directory of the project you want to run, for example:
+     ```sh
+     cd age_calculator
+     ```
+
+3. **Run the Project:**
+   - Use the following command to run the project:
+     ```sh
+     python project_file.py
+     ```
+   - Replace `project_file.py` with the actual file name of the project you want to run.
+
+
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
 1. Go [**`here`**](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
