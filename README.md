@@ -9,6 +9,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 | **No.** | **Name** | 
 | ------- | -------- | 
 |	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
+|	02	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 
 ## How to Use This Repository
 
