@@ -24,7 +24,7 @@ To run any of the projects, follow these steps:
 2. **Navigate to the Project Directory:**
    - Each project is located in its own directory. Navigate to the directory of the project you want to run, for example:
      ```sh
-     cd age_calculator
+     cd project_name
      ```
 
 3. **Run the Project:**
