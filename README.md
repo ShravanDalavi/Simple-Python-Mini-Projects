@@ -10,7 +10,8 @@ This repository contains a collection of Python mini projects. Below is a list o
 | ------- | -------- | 
 |	01	| **[ATM Simulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
 |	02	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
-|	03	| **[Binary-Decimal Converter](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
+|	03	| **[BMI_calulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
+|	04	| **[Binary-Decimal Converter](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
