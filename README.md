@@ -14,7 +14,6 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	04	| **[Binary-Decimal Converter](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
 
 
-
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
