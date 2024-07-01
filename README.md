@@ -68,4 +68,3 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
 
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
-
