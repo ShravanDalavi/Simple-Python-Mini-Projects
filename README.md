@@ -56,7 +56,6 @@ If you have git and you know how to use it, you can also clone the repository in
 ## Licence 📜
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
-
 ## Contributors ✨
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
