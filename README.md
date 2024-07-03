@@ -62,3 +62,4 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
   - GitHub:  [Email](https://github.com/SonawaneAshwini)
 
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
+**Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
