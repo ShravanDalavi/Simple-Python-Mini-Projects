@@ -1,4 +1,4 @@
-# Get Ipaddress and Hostname of Website
+# Get IP address and Hostname of Website
 This Python script retrieves the IP address and hostname of a given website URL using the socket library.
 
 ## Description
