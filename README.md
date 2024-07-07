@@ -15,7 +15,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**07**	| **[Countdown timer](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
 |	**08**	| **[Digital White Board](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
 |	**09**	| **[Get IP address and Hostname of Website](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
-
+|	**10**	| **[Hotel Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
