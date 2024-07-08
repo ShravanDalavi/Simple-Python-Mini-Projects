@@ -3,7 +3,6 @@ This Python script implements a basic grocery store management system using clas
 
 ## Description
 The script consists of several classes:
-
 * Product: Represents a product with attributes such as ID, name, price, and quantity.
 * Customer: Represents a customer with attributes like ID, name, and email.
 * Sale: Records each sale with attributes including sale ID, customer ID, product ID, quantity sold, and total price.
