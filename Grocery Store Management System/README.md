@@ -1,6 +1,5 @@
 # Grocery Store Management System
 This Python script implements a basic grocery store management system using classes for Product, Customer, Sale, and GroceryStore. It allows users to add products, update products, manage customers, record sales, and view inventory and sales data.
-
 ## Description
 The script consists of several classes:
 * Product: Represents a product with attributes such as ID, name, price, and quantity.
