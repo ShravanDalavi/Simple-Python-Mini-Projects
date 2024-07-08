@@ -6,7 +6,6 @@ The script consists of several classes:
 * Customer: Represents a customer with attributes like ID, name, and email.
 * Sale: Records each sale with attributes including sale ID, customer ID, product ID, quantity sold, and total price.
 * GroceryStore: Manages the inventory of products, customers, and sales. It provides methods to add products, update products, add customers, record sales, and view product inventory and sales records.
-
 ## How to Install Required Modules
 No additional modules beyond Python's standard library are required to run this script.
 ## How to Run the Script
