@@ -10,14 +10,12 @@ The script consists of several classes:
 
 ## How to Install Required Modules
 No additional modules beyond Python's standard library are required to run this script.
-
 ## How to Run the Script
 1. Clone the Repository: 
 ```bash 
               git clone https://github.com/yourusername/grocery-store-management.git
               cd grocery-store-management
 ```
-
 2. Run the Script:
 ```bash 
               python3 grocery_store.py
