@@ -19,6 +19,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**11**	| **[Hotel Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
 |	**12**	| **[Ludo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
 |	**13**	| **[Number Guessing Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
+
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
