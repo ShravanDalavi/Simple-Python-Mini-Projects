@@ -24,6 +24,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**16**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
 
 
+
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
