@@ -23,4 +23,5 @@ No additional modules beyond Python's standard library are required to run this 
 ```
 ## Usage Instructions
 • Launch the script and answer each question by typing the letter corresponding to your choice.
+<br>
 • After answering all questions, the script will display your score.
