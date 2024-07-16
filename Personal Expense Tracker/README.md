@@ -1,6 +1,5 @@
 # Personal Expense Tracker
 A Python script to track and manage personal expenses with functionalities to add, view, analyze, and visualize expenses.
-
 ## Description
 This script helps you keep track of your personal expenses by adding them to a CSV file. You can view your expenses, analyze them by category, and visualize them using bar charts.
 
