@@ -22,7 +22,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**14**	| **[Number to Words](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
 |	**15**	| **[Palindrome Checker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 |	**16**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
-|	**17**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
+|	**17**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
