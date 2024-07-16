@@ -23,7 +23,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**15**	| **[Palindrome Checker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 |	**16**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
 |	**17**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
-|	**18**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
+|	**18**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
