@@ -32,7 +32,7 @@ The 'task_scheduler.py' script provides a menu-driven interface to perform vario
 - Remove a Task: Delete a task from the scheduler.
 - Exit: Terminate the program.
 
-## Example Usage
+## Example  Output
 ```bash
            $ python task_scheduler.py
   
