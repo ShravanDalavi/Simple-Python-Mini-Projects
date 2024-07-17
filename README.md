@@ -24,6 +24,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**17**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
 |	**18**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |	**19**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
+|	**20**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
