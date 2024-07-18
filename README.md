@@ -25,6 +25,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**18**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |	**19**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
 |	**20**	| **[Random Password Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
+|	**21**	| **[Rock, Paper, Scissors Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
 
 
 ## How to Use This Repository
