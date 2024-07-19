@@ -29,6 +29,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**22**	| **[Simple Contact Book](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
 
 
+
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
