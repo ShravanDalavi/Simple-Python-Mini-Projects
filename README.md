@@ -29,7 +29,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**22**	| **[Simple Contact Book](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
 |	**23**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |	**24**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-
+|	**25**	| **[Text To ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
