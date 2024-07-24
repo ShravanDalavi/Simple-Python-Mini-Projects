@@ -77,7 +77,7 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
   - GitHub: [Profile](https://github.com/ShravanDalavi)
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
-  - GitHub:  [Email](https://github.com/SonawaneAshwini)
+  - GitHub:  [Profile](https://github.com/SonawaneAshwini)
 
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
 
