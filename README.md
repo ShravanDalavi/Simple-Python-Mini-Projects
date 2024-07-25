@@ -31,7 +31,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**23**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |	**24**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
 |	**25**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
-|	**25**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
+|	**26**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
