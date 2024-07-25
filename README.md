@@ -33,6 +33,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**25**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
 |	**26**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
 
+
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
