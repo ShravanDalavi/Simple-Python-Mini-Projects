@@ -30,7 +30,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**22**	| **[Simple Contact Book](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
 |	**23**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |	**24**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-|	**25**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
+|	**25**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
 |	**26**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
 |	**27**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
 
