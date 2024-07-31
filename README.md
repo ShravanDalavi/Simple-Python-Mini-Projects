@@ -45,7 +45,6 @@ To run any of the projects, follow these steps:
      git clone https://github.com/your-username/python-mini-projects.git
      cd python-mini-projects
      ```
-
 2. **Navigate to the Project Directory:**
    - Each project is located in its own directory. Navigate to the directory of the project you want to run, for example:
      ```sh
