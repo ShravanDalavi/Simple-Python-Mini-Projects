@@ -50,7 +50,6 @@ To run any of the projects, follow these steps:
      ```sh
      cd project_name
      ```
-
 3. **Run the Project:**
    - Use the following command to run the project:
      ```sh
