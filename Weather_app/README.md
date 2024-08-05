@@ -3,7 +3,6 @@
 This is a simple Python script to fetch and display the current weather for a specified city using the OpenWeatherMap API.
 
 ## Description
-
 The script takes a city name as input and retrieves the current weather information, including the weather description and temperature in Celsius. It handles various exceptions that may occur during the API request.
 
 ## Requirements
