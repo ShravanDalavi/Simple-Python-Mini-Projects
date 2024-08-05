@@ -24,7 +24,6 @@ The script takes a city name as input and retrieves the current weather informat
 ```
 
 ## Usage
-
 1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
 2. Open the `weather_app.py` file and replace the placeholder API key (`afe72a4da5b0392c920e53f98a0b7907`) with your actual API key.
 3. Run the script:
