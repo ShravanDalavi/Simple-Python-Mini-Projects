@@ -10,7 +10,6 @@ The script takes a city name as input and retrieves the current weather informat
 - `requests` library
 
 ## Installation
-
 1. Clone this repository to your local machine:
 ```bash
     git clone https://github.com/yourusername/weather-app.git
