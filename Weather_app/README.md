@@ -33,7 +33,6 @@ The script takes a city name as input and retrieves the current weather informat
 4. Enter the city name when prompted to get the weather information.
 
 ## Example
-
 ```bash
 $ python weather_app.py
 Enter the city name: London
