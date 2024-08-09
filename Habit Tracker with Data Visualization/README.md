@@ -27,6 +27,7 @@ pip install matplotlib
 ```sh
 python habit_tracker.py
 ```
+
 ## Example Usage:
 ```markdown
 Habit Tracker
