@@ -55,5 +55,5 @@ Choose an option: 3
 Enter habit name: Exercise
 Enter date (YYYY-MM-DD) or press Enter for today: 2024-08-07
 ```
-Acknowledgments:
+## Acknowledgments:
 This project uses [matplotlib](https://matplotlib.org/) for data visualization.
