@@ -16,26 +16,26 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**09**	| **[Get IP address and Hostname of Website](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
 |	**10**	| **[Grocery Store Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
 |  **11** | **[Habit Tracker with Data Visualization](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Habit%20Tracker%20with%20Data%20Visualization)** |
-|	**11**	| **[Hotel Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
-|	**12**	| **[Ludo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
-|	**13**	| **[Number Guessing Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
-|	**14**	| **[Number to Words](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
-|	**15**	| **[Palindrome Checker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
-|	**16**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
-|	**17**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
-|	**18**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
-|	**19**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
-|	**20**	| **[Random Password Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
-|	**21**	| **[Rock, Paper, Scissors Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
-|	**22**	| **[Simple Contact Book](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
-|	**23**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
-|	**24**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-|	**25**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
-|	**26**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
-|	**27**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
-|	**28**	| **[Translate](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Translate)** |
-|	**29**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
-|	**30**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+|	**12**	| **[Hotel Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
+|	**13**	| **[Ludo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
+|	**14**	| **[Number Guessing Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
+|	**15**	| **[Number to Words](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
+|	**16**	| **[Palindrome Checker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
+|	**17**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
+|	**18**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
+|	**19**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
+|	**20**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
+|	**21**	| **[Random Password Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
+|	**22**	| **[Rock, Paper, Scissors Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
+|	**23**	| **[Simple Contact Book](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
+|	**24**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
+|	**25**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
+|	**26**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
+|	**27**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
+|	**28**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
+|	**29**	| **[Translate](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Translate)** |
+|	**30**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|	**31**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
