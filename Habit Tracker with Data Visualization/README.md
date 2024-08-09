@@ -1,5 +1,4 @@
 # Habit Tracker with Data Visualization
-
 ## Description:
 The Habit Tracker with Data Visualization project allows users to add, update, delete, and mark habits as completed. Users can also visualize their habit completion data using simple graphs.
 
