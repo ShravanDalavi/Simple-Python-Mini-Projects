@@ -47,5 +47,6 @@ Virtual Plant Care Simulator
 Choose an option: 2
 Enter plant name to water: Rose
 ```
+
 ## Acknowledgments:
 - This project uses [Python Standard Library](https://docs.python.org/3/library/) modules.
