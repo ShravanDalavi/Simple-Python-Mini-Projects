@@ -1,5 +1,4 @@
 # Virtual Plant Care Simulato
-
 ## Description:
 The Virtual Plant Care Simulator project simulates the experience of taking care of a virtual plant. Users can create a plant, water it, provide sunlight, and monitor its health and growth over time. The application also allows users to save and load plant data to and from a file.
 
