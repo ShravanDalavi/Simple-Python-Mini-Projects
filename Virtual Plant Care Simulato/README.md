@@ -22,6 +22,7 @@ These modules are part of the Python Standard Library, so no additional installa
 ```sh
 python plant_care_simulator.py
 ```
+
 ## Example Usage:
 ```markdown
 Virtual Plant Care Simulator
