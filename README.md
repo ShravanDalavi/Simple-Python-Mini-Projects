@@ -35,8 +35,9 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**28**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
 |	**29**	| **[Translate](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Translate)** |
 |	**30**	| **[Virtual Plant Care Simulato](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Virtual%20Plant%20Care%20Simulato)** |
-|	**31**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
-|	**32**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+|	**31**	| **[Voice-Controlled Home Automation Simulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
+|	**32**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|	**33**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
