@@ -1,7 +1,9 @@
 # Simple-Python-Mini-Projects
+
 These mini projects showcase Python's versatility in practical applications, covering fundamental programming concepts such as calculations, data manipulation, and interactive interfaces. From utilities like converters and calculators to interactive games and trackers, each project emphasizes Python's capability for both learning and real-world application development.
 
 ## Python Mini Projects
+
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 | **No.** | **Name** | 
 | ------- | -------- | 
@@ -38,6 +40,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**31**	| **[Voice-Controlled Home Automation Simulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
 |	**32**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
 |	**33**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
