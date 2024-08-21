@@ -40,7 +40,6 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**32**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
 |	**33**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
-
 ## How to Use This Repository
 To run any of the projects, follow these steps:
 
