@@ -1,6 +1,5 @@
 # Python Quiz Application
 This Python script implements a simple quiz application where users are asked multiple-choice questions and receive a score based on their answers.
-
 ## Description
 The project consists of:
 • Question Class: Defines each quiz question with a prompt and correct answer.
