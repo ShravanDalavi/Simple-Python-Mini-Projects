@@ -3,14 +3,12 @@ This Python script implements a simple quiz application where users are asked mu
 
 ## Description
 The project consists of:
-
 • Question Class: Defines each quiz question with a prompt and correct answer.
 
 • Quiz Functionality: Asks users questions and evaluates their answers, providing a final score.
 
 ## How to Install
 No additional modules beyond Python's standard library are required to run this script.
-
 ## How to Run the Script
 1. Clone the Repository:
 ```bash
