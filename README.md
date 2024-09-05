@@ -41,7 +41,6 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
-
 1. **Clone the Repository:**
    - Open your terminal and run:
      ```sh
