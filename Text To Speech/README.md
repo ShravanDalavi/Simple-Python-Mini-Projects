@@ -34,7 +34,6 @@ This application allows users to input text, select a language, and convert the 
 ```
 
 ## Usage
-
 1. **Enter Text:** Type the text you want to convert to speech in the text input area.
 2. **Select Language:** Choose the desired language from the dropdown menu.
 3. **Convert to Speech:** Click the "Text-to-Speech" button to convert the text to speech. The audio will play automatically.
