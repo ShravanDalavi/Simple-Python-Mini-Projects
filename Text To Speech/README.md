@@ -1,5 +1,4 @@
 # Text-to-Speech Application
-
 This is a simple Text-to-Speech application built using Python's Tkinter library for the GUI and gTTS (Google Text-to-Speech) for converting text to speech.
 
 ## Description
