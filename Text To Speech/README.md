@@ -39,7 +39,6 @@ This application allows users to input text, select a language, and convert the 
 3. **Convert to Speech:** Click the "Text-to-Speech" button to convert the text to speech. The audio will play automatically.
 
 ## Supported Languages
-
 The application supports the following languages:
 - English
 - French
