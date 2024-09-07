@@ -10,7 +10,6 @@ This application allows users to input text, select a language, and convert the 
 - gTTS (Google Text-to-Speech)
 
 ## Installation
-
 1. **Clone the repository:**
 ```bash
     git clone https://github.com/yourusername/text-to-speech.git
