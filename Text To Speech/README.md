@@ -2,7 +2,6 @@
 This is a simple Text-to-Speech application built using Python's Tkinter library for the GUI and gTTS (Google Text-to-Speech) for converting text to speech.
 
 ## Description
-
 This application allows users to input text, select a language, and convert the text to speech. The speech is then played using the default media player.
 
 ## Requirements
