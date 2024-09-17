@@ -1,5 +1,5 @@
 # Habit Tracker with Data Visualization
-## Description:
+## 🗒️ Description
 The Habit Tracker with Data Visualization project allows users to add, update, delete, and mark habits as completed. Users can also visualize their habit completion data using simple graphs.
 
 ## Features:
@@ -21,7 +21,7 @@ To install the required modules, use the following steps:
 ```sh
 pip install matplotlib
 ```
-## How to Run the Script:
+## ▶️ How to Run the Script
 1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
 2. Run the script using Python:
 ```sh
