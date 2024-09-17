@@ -10,7 +10,7 @@ This script uses the standard Python library. No additional modules are required
 ## How to Install Required Modules
 No additional modules need to be installed. Ensure that Python is installed on your system.
 
-## How to Run the Script
+## ▶️ How to Run the Script
 1. Clone the Repository:
 ```bash 
              git clone https://github.com/yourusername/binary-decimal-converter.git
