@@ -1,5 +1,4 @@
 # Number Guessing Game
-
 This project is a simple number guessing game written in Python. The program randomly selects a number between 1 and 100, and the player has to guess the number. The program provides feedback on whether the guess is too high or too low until the correct number is guessed.
 
 ## 🗒️ Description
