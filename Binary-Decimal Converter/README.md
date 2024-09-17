@@ -1,7 +1,7 @@
 # Binary-Decimal Converter
 This repository contains a simple Python script that allows users to convert between binary and decimal numbers.
 
-## Description
+## 🗒️ Description
 The script provides a menu to choose between converting a decimal number to binary or a binary number to decimal. It handles invalid inputs gracefully by prompting the user to choose a valid option.
 
 ## Required Modules
