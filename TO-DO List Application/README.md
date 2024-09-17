@@ -1,7 +1,7 @@
 # TO DO List Application
 This Python TODO List Application allows users to manage tasks by adding, viewing, and deleting them through a simple command-line interface.
 
-## Description
+## 🗒️ Description
 The application provides basic functionality to manipulate tasks:
 
 - Add Task: Allows users to input a task which gets added to the task list.
@@ -18,7 +18,7 @@ The application provides basic functionality to manipulate tasks:
 2. No Additional Modules Required:
 This application only uses Python's standard library, so no additional modules need to be installed.
 
-## How to Run the Script
+## ▶️ How to Run the Script
 After cloning the repository and navigating to the project directory:
 ```bash
                 python todo_list.py
