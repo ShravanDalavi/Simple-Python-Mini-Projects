@@ -5,7 +5,6 @@ This project is a simple number guessing game written in Python. The program ran
 The game generates a random number between 1 and 100 and allows the user to guess the number. After each guess, the program informs the user if their guess is too high, too low, or correct. The game continues until the user guesses the correct number, and it displays the number of attempts taken.
 
 ## 📋 Required Bash Commands
-
 To run this script, you need to have Python installed on your system. Here are some useful bash commands:
 
 1. **Check Python Version:**
