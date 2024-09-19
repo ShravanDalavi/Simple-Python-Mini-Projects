@@ -23,6 +23,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**15**	| **[Number to Words](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
 |	**16**	| **[Palindrome Checker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 |	**17**	| **[Personal Expense Tracker](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
+|	**18**	| **[Personal Journal with Sentiment Analysis](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Personal%20Journal%20with%20Sentiment%20Analysis)** |
 |	**18**	| **[Python Quiz Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
 |	**19**	| **[Python Task Scheduler](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |	**20**	| **[QR Code Generator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
