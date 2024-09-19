@@ -1,6 +1,7 @@
 # Personal Journal with Sentiment Analysis
 
 ## Description
+
 The Personal Journal with Sentiment Analysis project allows users to maintain a daily journal, analyze the sentiment of their entries, and view sentiment trends over time. The application enables users to add journal entries, view all entries, perform sentiment analysis using TextBlob, and save/load entries from a file.
 
 ## Features
