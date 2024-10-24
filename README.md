@@ -33,14 +33,14 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**26**	| **[Snake Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |	**27**	| **[Stopwatch Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
 |	**28**	| **[Student Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Student%20Management%20System)** |
-|	**28**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
-|	**29**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
-|	**30**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
-|	**31**	| **[Translate](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Translate)** |
-|	**32**	| **[Virtual Plant Care Simulato](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Virtual%20Plant%20Care%20Simulato)** |
-|	**33**	| **[Voice-Controlled Home Automation Simulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
-|	**34**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
-|	**35**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+|	**29**	| **[TO-DO List Application](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
+|	**30**	| **[Text To Speech ](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Text%20To%20Speech)** |
+|	**31**	| **[Tic Tac Teo Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
+|	**32**	| **[Translate](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Translate)** |
+|	**33**	| **[Virtual Plant Care Simulato](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Virtual%20Plant%20Care%20Simulato)** |
+|	**34**	| **[Voice-Controlled Home Automation Simulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
+|	**35**	| **[Weather App](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|	**36**	| **[Word Count Tool](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
 ## How to Use This Repository
 To run any of the projects, follow these steps:
