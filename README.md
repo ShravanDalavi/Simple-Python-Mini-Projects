@@ -12,6 +12,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |	**02**	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 |	**03**	| **[BMI_calulator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
 |	**04**	| **[Binary-Decimal Converter](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
+|	**05**	| **[Blood Bank Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Blood%20Bank%20Management%20System)** |
 |	**05**	| **[Calculator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Calculator)** |
 |	**06**	| **[Chess Game](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
 |	**07**	| **[Countdown timer](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
