@@ -97,7 +97,13 @@ Feel free to modify the projects to experiment with the code and add new feature
 3. Run the project to test your changes.
 
 ---
- 
+
+ ## Prerequisites
+Before running the projects, ensure you have:
+1. Python installed (version 3.x is recommended). You can download it from [python.org](https://www.python.org/).
+2. Basic knowledge of Python programming.
+
+---
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 1. Go [**`here`**](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
