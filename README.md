@@ -135,4 +135,7 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
 
+### Feedback and Support
+If you encounter any issues or have suggestions, feel free to open an issue in this repository. Your feedback is highly appreciated!
+
 **Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
