@@ -12,11 +12,15 @@ No additional modules need to be installed. Ensure that Python is installed on y
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-             git clone https://github.com/yourusername/binary-decimal-converter.git
-            cd binary-decimal-converter
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+           cd Simple-Python-Mini-Projects/Binary-Decimal\ Converter
+   ```
 2. Run the Script:
-```bash 
-            python3 converter.py
-```
+   ```bash 
+         python binary_decimal_converter.py
+   ```
+- Convert numbers between binary and decimal formats.
