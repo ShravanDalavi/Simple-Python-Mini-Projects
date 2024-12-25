@@ -14,8 +14,7 @@ qrcode (Python library)
 ## How to Install
 1. Clone the Repository:
 ```bash
-               git clone https://github.com/yourusername/qr-code-generator.git
-              cd qr-code-generator
+              git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
 ```             
 2. Install Required Modules:
 ```bash
@@ -24,11 +23,11 @@ qrcode (Python library)
 ## How to Run the Script
 1. Navigate to the Directory:
 ```bash
-          cd path/to/qr-code-generator
+          cd Simple-Python-Mini-Projects/QR\ Code\ Generator
 ```
 2. Run the Script:
 ```bash
-           python qr_code_generator.py
+           python qr_generator.py
 ```        
 3. Follow the Prompts:
 
