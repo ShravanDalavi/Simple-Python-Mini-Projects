@@ -8,17 +8,21 @@ The script consists of several classes:
 * GroceryStore: Manages the inventory of products, customers, and sales. It provides methods to add products, update products, add customers, record sales, and view product inventory and sales records.
 ## How to Install Required Modules
 No additional modules beyond Python's standard library are required to run this script.
-## How to Run the Script
-1. Clone the Repository: 
-```bash 
-              git clone https://github.com/yourusername/grocery-store-management.git
-              cd grocery-store-management
-```
+
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Grocery\ Store\ Management\ System
+   ```
 2. Run the Script:
-```bash 
-              python3 grocery_store.py
-```
-Follow the prompts in the terminal to interact with the grocery store management system:
+   ```bash 
+        python grocery_store_management.py
+   ```
+- Manage grocery inventory, track sales, and handle basic operations.
 
 * Add or update products.
 * Add customers.
