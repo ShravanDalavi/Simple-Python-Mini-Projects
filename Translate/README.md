@@ -33,14 +33,6 @@ The application allows users to enter text in one language and translate it to a
     python translate.py
    ```
 
-2. Enter the text you want to translate in the "Text to Translate" field.
-
-3. Select the source language from the "Source Language" dropdown menu.
-
-4. Select the destination language from the "Destination Language" dropdown menu.
-
-5. Click the "Translate" button to see the translated text in the "Translated Text" field.
-
 ## Example
 
 ```bash
