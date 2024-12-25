@@ -8,23 +8,21 @@ This script checks if a given word is a palindrome. A palindrome is a word that 
 Python 3.x
 This script uses only the standard library, so no additional installations are necessary.
 
-## How to Install
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash
-              git clone https://github.com/yourusername/palindrome-checker.git
-              cd palindrome-checker
-```
-## How to Run the Script
-
-1. Navigate to the Directory:
-```bash
-              cd path/to/palindrome-checker
-```
-2. Run the Script:
-```bash
-                python palindrome_checker.py
- ```       
-3. Follow the Prompt:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Palindrome\ Checker
+   ```
+3. Run the Script:
+   ```bash 
+      python palindrome_checker.py
+   ```
+     
+4. Follow the Prompt:
 
 Enter a word when prompted, and the script will check if it is a palindrome.
 
