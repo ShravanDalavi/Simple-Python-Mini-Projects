@@ -22,11 +22,19 @@ To install the required modules, use the following steps:
 pip install matplotlib
 ```
 ## ▶️ How to Run the Script
-1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Run the script using Python:
-```sh
-python habit_tracker.py
-```
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Habit\ Tracker\ with\ Data\ Visualization
+   ```
+2. Run the Script:
+   ```bash 
+        python habit_tracker.py
+   ```
+- Visualize your habits with charts and graphs.
 
 ## Example Usage:
 ```markdown
