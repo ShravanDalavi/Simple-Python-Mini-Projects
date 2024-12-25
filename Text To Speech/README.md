@@ -10,28 +10,25 @@ This application allows users to input text, select a language, and convert the 
 - gTTS (Google Text-to-Speech)
 
 ## Installation
-1. **Clone the repository:**
-```bash
-    git clone https://github.com/yourusername/text-to-speech.git
-    cd text-to-speech
-```
 
-2. **Install the required Python modules:**
+1. **Install the required Python modules:**
 ```bash
     pip install gTTS
 ```
 
-## How to Run the Script
-
-1. Navigate to the directory where the script is located:
-```bash
-    cd path/to/directory
-```
-
-2. Run the script:
-```bash
-    python Text\ To\ Speech.py
-```
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Text\ To\ Speech
+   ```
+3. Run the Script:
+   ```bash 
+    python text_to_speech.py
+   ```
 
 ## Usage
 1. **Enter Text:** Type the text you want to convert to speech in the text input area.
