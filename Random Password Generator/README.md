@@ -11,18 +11,18 @@ This script uses only the standard library, so no additional installations are n
 ## How to Install
 1. Clone the Repository:
 ```bash
-              git clone https://github.com/yourusername/random-password-generator.git
-              cd random-password-generator
+             git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
 ```
 ## How to Run the Script
 1. Navigate to the Directory:
 ```bash
-              cd path/to/random-password-generator
+              cd Simple-Python-Mini-Projects/Random\ Password\ Generator
 ```
 2. Run the Script:
 ```bash
-             python random_password_generator.py
+            python password_generator.py
 ```
+
 ## Example Output
 When you run the script, you will get a randomly generated password printed to the console. For example:
 ```bash
