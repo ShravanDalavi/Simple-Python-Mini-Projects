@@ -16,12 +16,12 @@ Since no additional modules are required, there is no need for installation of e
    git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
    ```
 2. Navigate to Directory:
-```bash 
+   ```bash 
              git clone https://github.com/yourusername/atm-simulator.git
             cd Simple-Python-Mini-Projects/ATM\ Simulator
-```
+   ```
 2. Run the Script:
-```bash 
+   ```bash 
            python atm_simulator.py
-```
+   ```
 - Simulate basic ATM operations such as checking balances, withdrawing cash, and depositing funds.
