@@ -12,11 +12,15 @@ Since no additional modules are required, there is no need for installation of e
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-            git clone https://github.com/yourusername/bmi-calculator.git
-            cd bmi-calculator
- ```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+            cd Simple-Python-Mini-Projects/BMI_calulator
+   ```
 2. Run the Script:
-```bash 
-            python3 bmi_calculator.py
-```
+   ```bash 
+          python bmi_calculator.py
+   ```
+- Input your height and weight to calculate your Body Mass Index (BMI).
