@@ -10,13 +10,16 @@ This script uses the standard Python library, specifically the tkinter and datet
 ## How to Install Required Modules
 No additional modules are required for this script. Ensure that Python is installed on your system.
 
-## How to Run the Script
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash
-             git clone https://github.com/yourusername/stopwatch-app.git
-             cd stopwatch-app
-```
-2. Run the Script:
-```bash
-             python3 stopwatch.py
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Stopwatch\ Application
+   ```
+3. Run the Script:
+   ```bash 
+    python stopwatch.py
+   ```
