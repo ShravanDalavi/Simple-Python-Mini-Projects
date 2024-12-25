@@ -1,3 +1,5 @@
+# Alarm Clock
+
 ## 🗒️ Description
 The provided script is a simple alarm clock that asks the user to input a time in the 'HH
 ' format. It continuously checks the current time and prints "Time to wake up!" when the specified time is reached.
