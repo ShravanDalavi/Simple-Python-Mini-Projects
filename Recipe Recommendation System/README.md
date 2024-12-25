@@ -9,12 +9,20 @@ The Recipe Recommendation System project helps users find recipes they can make 
 ## How to Install Required Modules:
 No additional modules are needed since json is part of the Python Standard Library.
 
-## How to Run the Script:
-1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Run the script using Python
-```sh
-python recipe_recommendation_system.py
-```
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Recipe\ Recommendation\ System
+   ```
+3. Run the Script:
+   ```bash 
+    python recipe_recommender.py
+   ```
+
 ## Example Usage:
 ```vbnet
 Recipe Recommendation System
