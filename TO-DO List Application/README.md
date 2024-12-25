@@ -10,21 +10,24 @@ The application provides basic functionality to manipulate tasks:
 - Exit: Terminates the application.
 
 ## Installation
-1. Clone the Repository:
-```bash
-               git clone https://github.com/yourusername/todo-list.git
-               cd todo-list
-```
-2. No Additional Modules Required:
+
+1. No Additional Modules Required:
 This application only uses Python's standard library, so no additional modules need to be installed.
 
 ## ▶️ How to Run the Script
-After cloning the repository and navigating to the project directory:
-```bash
-                python todo_list.py
-```                                
-Follow the on-screen prompts to interact with the TODO List Application.
-
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/TO-DO\ List\ Application
+   ```
+3. Run the Script:
+   ```bash 
+    python todo_list.py
+   ```
+   
 ## Script Overview
 The 'todo_list.py' script implements a menu-driven interface where users can perform various operations on tasks:
 
