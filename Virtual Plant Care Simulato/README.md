@@ -16,13 +16,20 @@ The Virtual Plant Care Simulator project simulates the experience of taking care
 ## How to Install Required Modules:
 These modules are part of the Python Standard Library, so no additional installation is required.
 
-## How to Run the Script:
-1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Run the script using Python:
-```sh
-python plant_care_simulator.py
-```
-
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Virtual\ Plant\ Care\ Simulator
+   ```
+3. Run the Script:
+   ```bash 
+    python plant_care_simulator.py
+   ```
+   
 ## Example Usage:
 ```markdown
 Virtual Plant Care Simulator
