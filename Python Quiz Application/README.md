@@ -8,16 +8,21 @@ The project consists of:
 
 ## How to Install
 No additional modules beyond Python's standard library are required to run this script.
-## How to Run the Script
+
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash
-            git clone https://github.com/yourusername/python-quiz-application.git
-            cd python-quiz-application
-```
-2. Run the Script:
-```bash
-            python quiz.py
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Python\ Quiz\ Application
+   ```
+3. Run the Script:
+   ```bash 
+     python quiz_app.py
+   ```
+
 ## Usage Instructions
 • Launch the script and answer each question by typing the letter corresponding to your choice.
 <br>
