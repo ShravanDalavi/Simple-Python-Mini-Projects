@@ -20,13 +20,20 @@ Ensure you have Python installed (version 3.6 or above). Install the required mo
 pip install matplotlib
 ```
 
-## How to Run the Script
-1. Save the script as `BloodBank.py` or any other preferred name.
-2. Open a terminal/command prompt and navigate to the folder where the script is saved.
-3. Run the script using:
-```bash
-python BloodBank.py
-```
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+         cd Simple-Python-Mini-Projects/Blood\ Bank\ Management\ System
+   ```
+2. Run the Script:
+   ```bash 
+         python blood_bank_management.py
+   ```
+- Manage donor and recipient data, including blood types and availability.
 
 ## Example Usage
 1. Add Donor:
