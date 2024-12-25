@@ -13,11 +13,15 @@ tkinter is included with Python by default. However, if you encounter any issues
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-            git clone https://github.com/yourusername/calculator.git
-            cd calculator
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Calculator
+   ```
 2. Run the Script:
-```bash 
-            python3 calculator.py
-```
+   ```bash 
+         python calculator.py
+   ```
+- Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
