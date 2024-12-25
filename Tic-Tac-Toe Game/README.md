@@ -11,17 +11,19 @@ The game starts with player X. Players click on the buttons to mark their moves.
 - Python 3.x
 - `tkinter` library (usually included with Python installations)
 
-## Installation
-
-1. Clone this repository to your local machine:
-```bash
-    git clone https://github.com/yourusername/tic-tac-toe-game.git
-```
-
-2. Navigate to the project directory:
-```bash
-    cd tic-tac-toe-game
-```
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Tic\ Tac\ Toe\ Game
+   ```
+3. Run the Script:
+   ```bash 
+    python tic_tac_toe.py
+   ```
 
 ## How to Install Required Modules
 
