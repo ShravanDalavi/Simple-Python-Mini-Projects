@@ -12,11 +12,15 @@ No installation of additional modules is needed
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-         git clone https://github.com/yourusername/get-website-ip.git
-         cd get-website-ip
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Get\ IP\ address\ and\ Hostname\ of\ Website
+   ```
 2. Run the Script:
-```bash 
-        python3 get_website_ip.py
-```
+   ```bash 
+       python get_ip_hostname.py
+   ```
+- Enter a website URL to retrieve its IP address and hostname.
