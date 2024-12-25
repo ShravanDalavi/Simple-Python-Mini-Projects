@@ -17,7 +17,6 @@ Since no additional modules are required, there is no need for installation of e
    ```
 2. Navigate to Directory:
    ```bash 
-             git clone https://github.com/yourusername/atm-simulator.git
             cd Simple-Python-Mini-Projects/ATM\ Simulator
    ```
 2. Run the Script:
