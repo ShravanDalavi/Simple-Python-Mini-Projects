@@ -17,11 +17,15 @@ Since no additional modules are required, there is no need for installation of e
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-               git clone https://github.com/yourusername/chess-game.git
-               cd chess-game
-```
-2. Run the Script: 
-```bash 
-               python3 chess_game.py
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Chess\ Game
+   ```
+2. Run the Script:
+   ```bash 
+         python chess_game.py
+   ```
+- Play a simple chess game with basic moves implemented.
