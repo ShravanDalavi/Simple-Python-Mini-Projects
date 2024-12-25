@@ -12,12 +12,15 @@ No additional modules are required for this script. Ensure that Python is instal
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-                git clone https://github.com/yourusername/countdown-timer.git
-                cd countdown-timer
-```
-
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Countdown\ timer
+   ```
 2. Run the Script:
-```bash 
-              python3 countdown_timer.py
-```
+   ```bash 
+         python countdown_timer.py
+   ```
+- Set a countdown timer for a specific duration, and the script will alert you when the time is up.
