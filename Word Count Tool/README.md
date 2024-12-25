@@ -8,20 +8,22 @@ This Python script provides a basic functionality to count the number of words i
 - word_count_tool(): Function that takes user input and utilizes 'count_words' to print the word count.
 
 ## Installation
-1. Clone the Repository:
-```bash
-            git clone https://github.com/yourusername/word-count-tool.git
-            cd word-count-tool
-```
-2. No Additional Modules Required:
+1. No Additional Modules Required:
         This script only uses Python's standard library, so no additional modules need to be installed.
 
-## How to Run the Script
-After cloning the repository and navigating to the project directory:        
-```bash 
-          python word_count_tool.py
-```
-Follow the on-screen prompts to enter text and see the word count result.
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Word\ Count\ Tool
+   ```
+3. Run the Script:
+   ```bash 
+    python word_count_tool.py
+   ```
 
 ## Example Usage
 ```bash
