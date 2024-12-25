@@ -21,11 +21,14 @@ No external Python modules are required for this project. The script uses the bu
 
 ## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-      git clone https://github.com/yourusername/number-guessing-game.git
-      cd number-guessing-game
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Number\ Guessing\ Game
+   ```
 2. Run the Script:
-```bash 
-         python3 number_guessing_game.py
-```
+   ```bash 
+        python number_guessing.py
+   ```
