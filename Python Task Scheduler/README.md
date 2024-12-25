@@ -7,8 +7,8 @@ The Task Scheduler consists of two main classes: 'Task' and 'TaskScheduler'. The
 ## Installation
 1. Clone the Repository:
 ```bash
-              git clone https://github.com/yourusername/task-scheduler.git
-              cd task-scheduler
+              git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+              cd Simple-Python-Mini-Projects/Python\ Task\ Scheduler
 ```
 2. Install Required Modules:       
 Ensure you have Python installed. The script uses the standard library 'datetime' for date handling.   
