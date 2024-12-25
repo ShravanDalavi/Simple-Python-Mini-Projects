@@ -13,21 +13,20 @@ This project includes:
 •  Python 3.x
 This game uses the standard library module random, so no additional installations are necessary.
 
-## How to Install
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-              git clone https://github.com/yourusername/ludo-python-game.git
-             cd ludo-python-game
-```
-## How to Run the Script
-1. Navigate to the Directory:
-```bash 
-            cd path/to/ludo-game
-```
-2. Run the Game:
-```bash 
-            python ludo_game.py
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+         cd Simple-Python-Mini-Projects/Ludo\ Game
+   ```
+2. Run the Script:
+   ```bash 
+        python ludo.py
+   ```
+
 ## How to Play
 
 1. Follow the prompts to roll the dice for each player in turn.
