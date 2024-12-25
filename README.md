@@ -63,7 +63,7 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 ### 2. Navigate to the Repository
 Once cloned, navigate to the project directory:
 ```bash
-cd Simple-Python-Mini-Projects
+cd Simple-Python-Mini-Projects/<Project Name>
 ```
 
 ---
