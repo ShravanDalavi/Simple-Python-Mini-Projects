@@ -14,27 +14,24 @@ The application allows users to enter text in one language and translate it to a
 
 ## Installation
 
-1. Clone this repository to your local machine:
-```bash
-    git clone https://github.com/yourusername/translator-app.git
-```
-
-2. Navigate to the project directory:
-```bash
-    cd translator-app
-```
-
-3. Install the required Python modules:
+1. Install the required Python modules:
 ```bash
     pip install googletrans==4.0.0-rc1
 ```
 
-## Usage
-
-1. Run the script:
-```bash
-    python Translate.py
-```
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Translate
+   ```
+3. Run the Script:
+   ```bash 
+    python translate.py
+   ```
 
 2. Enter the text you want to translate in the "Text to Translate" field.
 
