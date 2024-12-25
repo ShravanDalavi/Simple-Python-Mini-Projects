@@ -10,22 +10,23 @@ matplotlib
 ## How to Install
 1. Clone the Repository:
 ```bash
-               git clone https://github.com/yourusername/personal-expense-tracker.git
-               cd personal-expense-tracker
+              git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
 ```
 2. Install Required Modules:
 ```bash
                pip install pandas matplotlib
 ```
-## How to Run the Script
-1. Navigate to the Directory:
-```bash
-                cd path/to/personal-expense-tracker
-```
+## ▶️ How to Run the Script
+
+1. Navigate to Directory:
+   ```bash 
+         cd Simple-Python-Mini-Projects/Personal\ Expense\ Tracker
+   ```
 2. Run the Script:
-```bash
-                python personal_expense_tracker.py
-```
+   ```bash 
+       python expense_tracker.py
+   ```
+   
 ## Example Output
 When you run the script, you will see a menu with options to add expenses, view expenses, analyze expenses, visualize expenses, or exit the program. Here is an example of how to interact with the menu:
 ```bash
