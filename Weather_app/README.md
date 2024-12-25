@@ -12,11 +12,11 @@ The script takes a city name as input and retrieves the current weather informat
 ## Installation
 1. Clone this repository to your local machine:
 ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
 ```
 2. Navigate to the project directory:
 ```bash
-    cd weather-app
+    cd Simple-Python-Mini-Projects/Weather\ App
 ```
 3. Install the required Python modules:
 ```bash
@@ -31,6 +31,7 @@ The script takes a city name as input and retrieves the current weather informat
     python weather_app.py
 ```
 4. Enter the city name when prompted to get the weather information.
+
 
 ## Example
 ```bash
