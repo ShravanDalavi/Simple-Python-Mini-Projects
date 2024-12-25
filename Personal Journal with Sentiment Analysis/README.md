@@ -38,14 +38,20 @@ To install the required modules, use the following steps:
     exit()
     ```
 
-## How to Run the Script
-1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Run the script using Python:
-    ```sh
-    python personal_journal.py
-    ```
-3. Follow the on-screen prompts to use the journal application.
-
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Personal\ Journal\ with\ Sentiment\ Analysis
+   ```
+3. Run the Script:
+   ```bash 
+      python personal_journal.py
+   ```
+   
 ## Example Usage
 ```sh 
 Personal Journal
