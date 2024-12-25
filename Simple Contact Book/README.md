@@ -16,13 +16,16 @@ This script uses the standard Python library. No additional modules are required
 ## How to Install Required Modules
 No additional modules are required for this script. Ensure that Python is installed on your system.
 
-## How to Run the Script
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash
-                git clone https://github.com/yourusername/contact-book.git
-                cd contact-book
-```
-2. Run the Script:
-```bash
-                python3 contact_book.py
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Simple\ Contact\ Book
+   ```
+3. Run the Script:
+   ```bash 
+    python contact_book.py
+   ```
