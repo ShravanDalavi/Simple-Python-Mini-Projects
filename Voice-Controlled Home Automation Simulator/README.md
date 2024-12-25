@@ -21,12 +21,21 @@ To install the required modules, use the following steps:
 ```sh
 pip install SpeechRecognition
 ```
-## How to Run the Script:
-1. Navigate to the project directory in Command Prompt (Windows) or Terminal (macOS/Linux).
-2. Run the script using Python:
-```sh
-python home_automation.py
-```
+
+## ▶️ How to Run the Script
+1. Clone the Repository:
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Voice-Controlled\ Home\ Automation\ Simulator
+   ```
+3. Run the Script:
+   ```bash 
+    python home_automation.py
+   ```
+
 ## Example Usage:
 ```vbnet
 Voice-Controlled Home Automation
