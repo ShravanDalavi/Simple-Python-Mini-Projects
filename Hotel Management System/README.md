@@ -13,16 +13,20 @@ The project includes the following components:
 ## How to Install
 No additional modules beyond Python's standard library are required to run this script.
 
-## How to Run the Script
+## ▶️ How to Run the Script
 1. Clone the Repository:
-```bash 
-              git clone https://github.com/yourusername/hotel-management-system.git
-              cd hotel-management-system
-```
+   ```
+   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Simple-Python-Mini-Projects/Hotel\ Management\ System
+   ```
 2. Run the Script:
-```bash 
-              python3 hotel_management.py
-```
+   ```bash 
+        python hotel_management.py
+   ```
+
 ## Usage Instructions
 * Upon running the script, follow the prompts in the terminal to interact with the hotel management system:
 • View all rooms.
