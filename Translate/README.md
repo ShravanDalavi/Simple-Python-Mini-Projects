@@ -1,5 +1,4 @@
 # Translator Application
-
 This is a simple GUI-based Python application for translating text between different languages using the Google Translate API.
 
 ## Description
