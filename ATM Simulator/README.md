@@ -1,4 +1,5 @@
 # ATM Simulator
+
 This repository contains a simple ATM simulator application built using Python. The application simulates basic functionalities of an ATM, such as checking balance, depositing money, and withdrawing money.
 
 ## 🗒️ Description
