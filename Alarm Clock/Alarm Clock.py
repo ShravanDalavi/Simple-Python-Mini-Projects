@@ -10,4 +10,4 @@ while True:
     if current_hour == alarm_hour and current_minute == alarm_minute:
         print("Time to wake up!")
         break
-    time.sleep(60)  # check every minute
+    time.sleep(40)  # check every minute
