@@ -3,7 +3,6 @@ The Word Count Tool is a simple Python script that calculates the number of word
 
 ## Description
 This Python script provides a basic functionality to count the number of words in a text input:
-
 - count_words(text): Function that splits the input text into words and returns the count of words.
 - word_count_tool(): Function that takes user input and utilizes 'count_words' to print the word count.
 
