@@ -1,12 +1,18 @@
-def is_palindrome(word):
-    return word == word[::-1]
+# palindrome_checker.py
 
-def palindrome_checker():
-    word = input("Enter a word: ")
-    
-    if is_palindrome(word):
-        print(f"'{word}' is a palindrome!")
+import re
+
+def is_palindrome(s):
+    # Remove space, punctuation, make all lowercase
+    cleaned = re.sub(r'[^A-Za-z0-9]', '', s).lower()
+    return cleaned == cleaned[::-1]
+
+def main():
+    s = input("Enter text: ")
+    if is_palindrome(s):
+        print("Palindrome")
     else:
-        print(f"'{word}' is not a palindrome.")
+        print("Not palindrome")
 
-palindrome_checker()
+if __name__ == "__main__":
+    main()
